@@ -17,7 +17,7 @@ El objetivo principal es **entender los factores que influyen en la evasión de 
 - **Python 3**
 - **Pandas** → para limpieza y manipulación de datos.  
 - **Matplotlib / Seaborn** → para visualización gráfica.  
-- **Google Colab / Jupyter Notebook** → entorno de desarrollo.  
+- **Google Colab** → entorno de desarrollo.  
 
 ---
 
